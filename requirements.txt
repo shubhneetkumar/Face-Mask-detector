@@ -4,4 +4,4 @@ imutils
 numpy
 opencv-python
 matplotlib
-scipy
+scipt
